@@ -17,6 +17,7 @@ h3,
 h4,
 h5,
 h6 {
+/*    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; */
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -214,4 +215,8 @@ p.copyright {
     border-radius: 5px;
     color: black;
     padding-bottom: 10px;
+}
+
+.thanks {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
