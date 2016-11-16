@@ -1,0 +1,79 @@
+.logo {
+    width: 80%; 
+    display: block; 
+    margin: auto;
+    filter: grayscale(100%);
+}
+
+.address, .phone  {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.date {
+    float: left;
+}
+
+.time {
+    float: right;
+}
+
+.date, .time {
+    font-size: 1.3em;
+}
+
+table {
+    width: 100%;
+}
+
+.status {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5em;
+    margin: 15px 0;
+}
+
+.barcode {
+    width: 50%;
+    display: block; 
+    margin: auto;
+    margin-top: 25px;
+}
+
+
+.total-label {
+    float: left; 
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.total-price {
+    font-size: 1.3em;
+    float: right; 
+    font-weight: bold;
+}
+
+.item-label {
+    float: left; 
+    font-weight: bold;
+}
+
+.item-price {
+    float: right;
+}
+
+.extra-label {
+    
+}
+
+.extra-price {
+    
+}
+
