@@ -36,7 +36,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
+<<<<<<< HEAD
     background: url(../img/bigbg%20copy.png);
+=======
+/*    background: url(../img/pattern2.png) repeat;*/
+    
+>>>>>>> 4faa4d25c2ec369ec5d469640c4188264952a0a7
     background-color: #3A6287;
 }
 
