@@ -36,13 +36,14 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-/*    background: url(../img/Pattern.png) repeat;*/
+    background: url(../img/bigbg%20copy.png);
     background-color: #3A6287;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 8%;
+    background-color: rgba(255,255,255, 0.7);
+    margin-top: 50px;
 }
 
 .intro-message > h1 {
@@ -178,10 +179,9 @@ p.copyright {
 }
 
 .navbar-brand {
-  transform: translateX(-50%);
-  left: 50%;
-  position: absolute;
+    position: absolute;
     font-size: 2em;
+    padding: 2px;
 }
 
 .img-responsive {
