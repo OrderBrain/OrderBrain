@@ -1153,6 +1153,10 @@ body {
     .\-1u\28small\29 {
         margin-left: 8.33333%;
     }
+	
+    .\34 u, .\34 u\24 {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 480px) {
